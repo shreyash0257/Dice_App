@@ -1,7 +1,6 @@
 Dice App using Flutter
 
-![ezgif-2-e0d13da94e](https://user-images.githubusercontent.com/98897735/183259352-5c891939-6ff7-4fec-8730-395f34f6fe83.gif)
-
+![ezgif-2-d139d88d9a](https://user-images.githubusercontent.com/98897735/183259500-29287d73-686f-421f-9c47-507154250b73.gif)
 
 Created for learning purposes.
 
